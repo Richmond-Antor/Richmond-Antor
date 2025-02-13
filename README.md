@@ -2,7 +2,7 @@
 📖 Currently pursuing B.Sc. in Computer Science & Engineering (CSE)
 🏫 Port City International University, Bangladesh
 💡 Passionate about Software Development, Web Technologies & Problem Solving
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning C++
 - 📫 How to reach me: [social](https://www.facebook.com/profile.php?id=100011403727260)
 - ⚡ Fun fact: I love cars 🚗🚗🚗
 
